@@ -1,0 +1,14 @@
+1 - Ligue o primeiro Interruptor A e deixe-o ligado por alguns minutos.
+
+2 - Desligue o Interruptor A e ligue o Interruptor B, mantendo ele ligado até o final.
+
+3 - Agora vá até a sala A:
+    Se a lâmpada estiver quente mas apagada, ela foi controlada pelo Interruptor A (porque você ligou e depois desligou o A).
+    Se a lâmpada estiver acesa, ela está sendo controlada pelo Interruptor B (já que ele foi o último a ser ligado).
+    Se a lâmpada estiver fria e apagada, ela está conectada ao Interruptor C (que nunca foi ligado).
+
+4 - Agora, sabendo qual interruptor controla a lâmpada da sala A, vá até a sala B e faça a mesma verificação. Nesse exemplo vamos supor que o interruptor A controla a lâmpada da sala A. Na sala B:
+    Se a lâmpada estiver acesa, ela pertence ao Interruptor B.
+    Se a lâmpada estiver fria e apagada, ela pertence ao Interruptor C.
+
+5 - Por eliminação, você consegue chegar ao resultado da conexão entre o interruptor e sala restantes.

@@ -1,0 +1,20 @@
+Índice = 12
+Soma = 0
+K = 1
+
+Enquanto K < Índice, fazer:
+K = K+1
+Soma = Soma+K
+
+E então imprimir Soma
+
+Para K = 2, Soma = 2
+Para K = 3, Soma = 5
+Para K = 4, Soma = 9
+Para K = 5, Soma = 14
+Para K = 6, Soma = 20
+Para K = 7, Soma = 27
+Para K = 8, Soma = 35
+Para K = 9, Soma = 44
+Para K = 10, Soma = 54
+Para K = 11, Soma = 65
